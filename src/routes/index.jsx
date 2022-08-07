@@ -8,7 +8,7 @@ import { Notfound } from "../pages/NotFound";
 import { SearchPage } from "../pages/SearchPage";
 import Signup from "../pages/Signup";
 import About from "../pages/About";
-import Popularity from "../pages/Populitry";
+import Popularity from "../pages/Popularity";
 
 const RoutesMap = () => {
   const location = useLocation();
