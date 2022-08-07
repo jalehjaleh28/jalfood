@@ -1,9 +1,7 @@
 # Getting Started with Create React App
+jalfood
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-
-
 
 The page will reload when you make changes.\
 You may also see any lint errors in the console.

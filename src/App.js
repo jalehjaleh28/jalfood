@@ -20,7 +20,7 @@ function App() {
   useEffect(()=>{
     if (localStorage.getItem("favoriteItems")) {
       setFavItems(JSON.parse(localStorage.getItem("favoriteItems")))
-    }
+    }g
   })
   return (
     <IsLoginContext.Provider value={ [isLogin, setIsLogin]}>
