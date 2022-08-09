@@ -38,6 +38,7 @@ function RecipeCard({ idMeal, strMealThumb, strMeal }) {
    localStorage.setItem("favoriteItems",JSON.stringify(newFavItems))
   };
   
+  
 
   return (
     <div className="recipes-card">
